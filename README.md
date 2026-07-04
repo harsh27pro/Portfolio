@@ -3,7 +3,7 @@
 A minimalist, high-performance developer portfolio built with plain HTML, CSS, and JavaScript. Optimized for quick loading, complete responsiveness, and a raw technical aesthetic designed for AI/ML and software engineering platforms.
 
 ## 🚀 Live Demo
-* Add your deployed link here (e.g., GitHub Pages, Netlify, or Vercel link)
+* https://github.com/harsh27pro/Portfolio (e.g., GitHub Pages, Netlify, or Vercel link)
 
 ---
 
